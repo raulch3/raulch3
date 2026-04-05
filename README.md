@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=PT+Serif&weight=500&size=19&pause=1000&color=B0B897&center=true&multiline=true&width=435&lines=Bienvenido!+;Mi+nombre+es+Ra%C3%BAl+Cortes;Esto+es+un+espacio+donde+presento+mis+proyectos+personales)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fjalla+One&weight=200&size=21&pause=1000&color=0DEE09&center=true&width=435&lines=Bienvenido!+;Mi+nombre+es+Ra%C3%BAl+Cortes;Aprendizaje+y+Habilidades)](https://git.io/typing-svg)
