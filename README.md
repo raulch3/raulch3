@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&lines=%C2%A1+Bienvenido+!;Mi+nombres+Ra%C3%BAl+Cortes;%22Cuando+pienses+en+rendirte+contin%C3%BAa%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&lines=%C2%A1+Bienvenido+!;Mi+nombres+Ra%C3%BAl+Cortes;%22Cuando+pienses+en+rendirte%22;%22CONTIN%C3%9AA%22)](https://git.io/typing-svg)
